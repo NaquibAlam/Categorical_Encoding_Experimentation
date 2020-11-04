@@ -1,4 +1,7 @@
 # Categorical_Encoding_Experimentation
+1. hsbwshbws
+2. sjdnsajdns
+3. jsdbswbd
 -- This repo contains code for experimenting with categorical encoding - WoE, Catboost, Target encoder and many more.
 -- Many of these encoders such as Catboost, Target, Leave-one-out are very popular when it comes to encoding a categorical variable with very high cardinlaity.
 -- WoE is very popular for low/high cardinality for Binary classification problem especially with Logistic Regression.
